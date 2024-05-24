@@ -31,6 +31,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesoo-park&show_icons=true&theme=buefy&border_radius=20&line_height=40&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesoo-park&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
+# 📬Contacts
+<a href="https://retry-thinksubox.tistory.com/"><img src="https://img.shields.io/badge/Tistory-%23000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="https://github.com/heesoo-park"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<span><img src="https://img.shields.io/badge/phs8505@gmail.com-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/phs8505@naver.com-%2303C75A?style=for-the-badge&logo=Naver&logoColor=white"/></span>
+
 </div>
 <!--
 **heesoo-park/heesoo-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
