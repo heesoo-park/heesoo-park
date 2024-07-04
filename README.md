@@ -26,16 +26,18 @@
 
 </br>
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gksksla1emd)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesoo-park&show_icons=true&theme=buefy&border_radius=20&line_height=40&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesoo-park&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesoo-park&show_icons=true&theme=buefy&border_radius=20&line_height=40&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=gksksla1emd" alt="Solved.ac프로필" style="margin-right: 20px; height: 200px;"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesoo-park&border_radius=20" alt="Top Langs" style="height: 200px;"/>
+  </a>
+</div>
 
 # 📬Contacts
 <a href="https://retry-thinksubox.tistory.com/"><img src="https://img.shields.io/badge/Tistory-%23000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <a href="https://github.com/heesoo-park"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:phs8505@gmail.com"><img src="https://img.shields.io/badge/phs8505@gmail.com-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:phs8505@naver.com"><img src="https://img.shields.io/badge/phs8505@naver.com-%2303C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
 </div>
 <!--
