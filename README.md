@@ -28,7 +28,8 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesoo-park&show_icons=true&theme=buefy&border_radius=20&line_height=40&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=gksksla1emd" alt="Solved.ac프로필" style="margin-right: 20px; height: 200px;"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=gksksla1emd" alt="Solved.ac프로필" style="height: 200px;"/>
+  　
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesoo-park&border_radius=20" alt="Top Langs" style="height: 200px;"/>
   </a>
